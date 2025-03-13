@@ -36,55 +36,55 @@ document.addEventListener('DOMContentLoaded', () => {
             intro: ' The annual flagship event of the Entrepreneurship Cell aims to inspire and empower students by connecting them with industry experts and emerging startups, fostering entrepreneurial spirit and learning.',
             description: 'Entrecon is our premier annual event designed to bridge the gap between aspiring entrepreneurs and the dynamic world of startups. This comprehensive event brings together industry leaders, successful entrepreneurs, and passionate students to create a vibrant ecosystem of innovation and learning.',
             // Updated paths for GitHub Pages
-            image: '/ecelllll/assets/events/entrecon1.JPG',
+            image: '/ecelllll2/assets/events/entrecon1.JPG',
             gallery: [
-                '/ecelllll/assets/events/entrecon1.JPG',
-                '/ecelllll/assets/events/entrecon2.JPG',
-                '/ecelllll/assets/events/entrecon3.JPG',
-                '/ecelllll/assets/events/entrecon4.JPG'
+                '/ecelllll2/assets/events/entrecon1.JPG',
+                '/ecelllll2/assets/events/entrecon2.JPG',
+                '/ecelllll2/assets/events/entrecon3.JPG',
+                '/ecelllll2/assets/events/entrecon4.JPG'
             ]
         },
         {
             title: 'Orientation\'24',
             intro: 'The E-Cell hosted an inspiring orientation, igniting entrepreneurial passion among students. The event showcased the E-Cell\'s vision, upcoming opportunities, and success stories, motivating students to embark on their journey of innovation and leadership.',
-            image: '/ecelllll/assets/events/orientation1.jpeg',
+            image: '/ecelllll2/assets/events/orientation1.jpeg',
             description: 'Our annual Orientation Program is a transformative event that introduces students to the exciting world of entrepreneurship. Through engaging presentations, interactive sessions, and inspiring talks, we aim to kindle the entrepreneurial spirit and provide a roadmap for innovation and leadership.',
             gallery: [
-                '/ecelllll/assets/events/orientation1.jpeg',
-                '/ecelllll/assets/events/orientation2.jpg',
-                '/ecelllll/assets/events/orientation3.jpg',
-                '/ecelllll/assets/events/orientation4.JPG'
+                '/ecelllll2/assets/events/orientation1.jpeg',
+                '/ecelllll2/assets/events/orientation2.jpg',
+                '/ecelllll2/assets/events/orientation3.jpg',
+                '/ecelllll2/assets/events/orientation4.JPG'
             ]
         },
         {
             title: 'Induction Ceremony',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '/ecelllll/assets/team-cover.jpg',
+            image: '/ecelllll2/assets/team-cover.jpg',
             gallery: [
-                '/ecelllll/assets/team-cover.jpg',
-                '/ecelllll/assets/events/induction2.JPG',
-                '/ecelllll/assets/events/induction3.jpg'
+                '/ecelllll2/assets/team-cover.jpg',
+                '/ecelllll2/assets/events/induction2.JPG',
+                '/ecelllll2/assets/events/induction3.jpg'
             ]
         },
         {
             title: 'NSIC Okhla Visit',
             intro: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
             description: 'On 14th November, the E-Cell welcomed new members with engaging introductions, interactive activities, and team-building sessions. The event was filled with energy, fun, and the promise of an exciting journey ahead.',
-            image: '/ecelllll/assets/events/nsic.png',
+            image: '/ecelllll2/assets/events/nsic.png',
             gallery: [
-                '/ecelllll/assets/events/nsic.png'
+                '/ecelllll2/assets/events/nsic.png'
             ]
         },
         {
             title: 'World Entrepreneurship Day',
             intro: 'Organized an impactful event featuring esteemed entrepreneurs Jitender Girdhar, Vaneeta Aggarwal, and Shubham Maheshwari, celebrating entrepreneurial achievements and sharing valuable insights.',
             description: 'Organized an impactful event featuring esteemed entrepreneurs Jitender Girdhar, Vaneeta Aggarwal, and Shubham Maheshwari, celebrating entrepreneurial achievements and sharing valuable insights.',
-            image: '/ecelllll/assets/events/world11.jpg',
+            image: '/ecelllll2/assets/events/world11.jpg',
             gallery: [
-                 '/ecelllll/assets/events/world11.jpg',
-                '/ecelllll/assets/events/world12.jpg',
-                '/ecelllll/assets/events/world13.jpg',
+                 '/ecelllll2/assets/events/world11.jpg',
+                '/ecelllll2/assets/events/world12.jpg',
+                '/ecelllll2/assets/events/world13.jpg',
                 
             ]
         }
