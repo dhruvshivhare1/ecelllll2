@@ -36,22 +36,22 @@ document.addEventListener('DOMContentLoaded', () => {
             intro: ' The annual flagship event of the Entrepreneurship Cell aims to inspire and empower students by connecting them with industry experts and emerging startups, fostering entrepreneurial spirit and learning.',
             description: 'Entrecon is our premier annual event designed to bridge the gap between aspiring entrepreneurs and the dynamic world of startups. This comprehensive event brings together industry leaders, successful entrepreneurs, and passionate students to create a vibrant ecosystem of innovation and learning.',
             // Updated paths for GitHub Pages
-            image: '/ecelllll2/assets/events/entrecon1.JPG',
+            image: '/assets/events/entrecon1.JPG',
             gallery: [
-                '/ecelllll2/assets/events/entrecon1.JPG',
-                '/ecelllll2/assets/events/entrecon2.JPG',
-                '/ecelllll2/assets/events/entrecon3.JPG',
-                '/ecelllll2/assets/events/entrecon4.JPG'
+                '/assets/events/entrecon1.JPG',
+                '/assets/events/entrecon2.JPG',
+                '/assets/events/entrecon3.JPG',
+                '/assets/events/entrecon4.JPG'
             ]
         },
         {
             title: 'Orientation\'24',
             intro: 'The E-Cell hosted an inspiring orientation, igniting entrepreneurial passion among students. The event showcased the E-Cell\'s vision, upcoming opportunities, and success stories, motivating students to embark on their journey of innovation and leadership.',
-            image: '/ecelllll2/assets/events/orientation1.jpeg',
+            image: '/assets/events/orientation1.jpeg',
             description: 'Our annual Orientation Program is a transformative event that introduces students to the exciting world of entrepreneurship. Through engaging presentations, interactive sessions, and inspiring talks, we aim to kindle the entrepreneurial spirit and provide a roadmap for innovation and leadership.',
             gallery: [
-                '/ecelllll2/assets/events/orientation1.jpeg',
-                '/ecelllll2/assets/events/orientation2.jpg',
+                '/assets/events/orientation1.jpeg',
+                '/assets/events/orientation2.jpg',
                 '/ecelllll2/assets/events/orientation3.jpg',
                 '/ecelllll2/assets/events/orientation4.JPG'
             ]
