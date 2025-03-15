@@ -1,0 +1,16 @@
+{
+    "name": "E-Cell | Entrepreneurship Cell",
+    "short_name": "E-Cell",
+    "description": "The Entrepreneurship Cell at Sri Aurobindo College",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a1a1a",
+    "theme_color": "#ab73b8",
+    "icons": [
+        {
+            "src": "assets/E-cell.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
