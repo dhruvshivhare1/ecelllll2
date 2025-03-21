@@ -136,6 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'https://youtu.be/fUxl-yTVIfQ?si=aXvZHJzgCUtAZOEl',
         'https://youtu.be/bdbQNryce-c?si=YmOjmTGgA0bWuVyV',
         'https://youtu.be/HB_S1EKntd8?si=BEBaH9tW965dTd4i',
+        'https://youtu.be/hAZTm9HAOo4?si=FeMtjAo7tczLFdTD',
         // Add more YouTube URLs here
     ];
 
