@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Ayush Gupta',
             role: 'Finance Head',
             department: 'Finance',
-            image: 'assets/ayush.jpg',
+            image: 'assets/ayushg.png',
             linkedin: 'https://www.linkedin.com/in/ayush-gupta-6a278525a/',
         },
         {
